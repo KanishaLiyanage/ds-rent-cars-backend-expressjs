@@ -1,11 +1,9 @@
-# ds-rent-cars-backend-expressjs
-
 <a name="readme-top"></a>
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h1 align="center">GameDudes Blog Website</h1>
+  <h1 align="center">DS Rent Cars REST API</h1>
   <br />
   <p align="center">
     This is REST API for the DS Rent Cars Flutter app.
