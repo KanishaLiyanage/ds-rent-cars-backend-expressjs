@@ -41,9 +41,11 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-This Blog website is made for my university assignment.
+This App is made for my university project of the course module Rapid Application Development.
 
-This Blog website is only for gamers who are like to post upcoming games, share experiences about played games, and post latest news all about gaming platform.
+This app is made using Agile software-development methodology. Agile development is an iterative software-development methodology which teams use in projects. Self-organized, cross-functional teams frequently analyze circumstances and user needs to adapt projects. Scrum teams constantly improve quality in sprints with short-term deliverables.
+
+This app has all the CRUD operations.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
