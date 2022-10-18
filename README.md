@@ -37,8 +37,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 This App is made for my university project for the course module named "Rapid Application Development".
 
 This app is made using Agile software-development methodology. Agile development is an iterative software-development methodology which teams use in projects. Self-organized, cross-functional teams frequently analyze circumstances and user needs to adapt projects. Scrum teams constantly improve quality in sprints with short-term deliverables.
@@ -134,7 +132,7 @@ Project Link: [https://github.com/KanishaLiyanage/ds-rent-cars-backend-expressjs
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: images/screenshot.png
+
 [Node.js]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 [Express.js]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
 [MongoDB]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
